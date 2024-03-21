@@ -2,5 +2,9 @@
     {
         "package": "ozgs",
         "url": "https://github.com/gardiners/ozgs"
+    },
+    {
+        "package": "lockr",
+        "url": "https://github.com/gardiners/lockr"
     }
 ]
