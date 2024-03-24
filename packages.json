@@ -1,7 +1,8 @@
 [
     {
         "package": "ozgs",
-        "url": "https://github.com/gardiners/ozgs"
+        "url": "https://github.com/gardiners/ozgs",
+        "branch": "*release"
     },
     {
         "package": "lockr",
