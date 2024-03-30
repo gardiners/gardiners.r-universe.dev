@@ -1,11 +1,15 @@
 [
     {
+        "package": "lockr",
+        "url": "https://github.com/gardiners/lockr"
+    },
+    {
         "package": "ozgs",
         "url": "https://github.com/gardiners/ozgs",
         "branch": "*release"
     },
     {
-        "package": "lockr",
-        "url": "https://github.com/gardiners/lockr"
+        "package": "pinbrowser",
+        "url": "https://github.com/gardiners/pinbrowser"
     }
 ]
