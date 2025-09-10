@@ -1,5 +1,9 @@
 [
     {
+        "package": "doestyle",
+        "url": "https://bitbucket.org/nsw-education/doestyle/"
+    },
+    {
         "package": "lockr",
         "url": "https://github.com/gardiners/lockr"
     },
